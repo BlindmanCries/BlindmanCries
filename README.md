@@ -19,6 +19,6 @@
 
 - 💀 Mi perfil de GitHub está muerto, esto solo lo hago para que se vea un poco más bonito. 
 
-<h3 align="left">Mi discord: Momokumafu#7770<a href="https://www.discord.com/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" width="21" height="21"/> </a> </h3>
+<h3 align="left">Mi discord: Momokumafu#7770<a href="https://www.discord.com/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" width="20" height="20"/> </a> </h3>
 <p align="left">
 </p>
